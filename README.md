@@ -1,4 +1,4 @@
-# FreeCodeCamp Workshop: Kitchen Inventory Project
+# Kitchen Inventory Project
 
 This repository contains my completed project from a FreeCodeCamp Python workshop. The exercise focuses on practising core programming concepts by building a simple kitchen‑inventory system that tracks ingredients, checks stock levels, and updates quantities as items are used.
 
